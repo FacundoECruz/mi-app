@@ -6,6 +6,7 @@
     align-items: center;
     justify-content: center;
     background-color: #dee1ec;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9);
 }
 
 .imagen-competidor {
