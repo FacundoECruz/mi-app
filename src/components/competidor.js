@@ -4,7 +4,7 @@ function Competidor() {
     return(
         <div className='contenedor-competidor'>
             <img className='imagen-competidor'
-            src={'../imagenes/imagen-gazir.jfif'}
+            src={require('../images/imagen-gazir.jpg')}
             alt='imagen gazir'/>
             <div className='contenedor-texto-competidor'>
                 <p className='nombre-competidor'>Texto</p>
