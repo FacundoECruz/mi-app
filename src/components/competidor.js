@@ -1,4 +1,5 @@
 import React from 'react';
+import '../stylesheets/Competidor.css'
 
 function Competidor() {
     return(

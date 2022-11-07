@@ -1,0 +1,14 @@
+.contenedor-competidor {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #dee1ec;
+}
+
+.imagen-competidor {
+    height: 100%;
+    width: auto;
+}
