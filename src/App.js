@@ -4,8 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        
-      <Competidor />
+      <div className='contenedor-principal'>
+        <h1>Red Bull 2022</h1>
+        <Competidor />
+      </div>
     </div>
   );
 }
