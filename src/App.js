@@ -11,13 +11,19 @@ function App() {
           pais='España'
           imagen='gazir'
           titulo='Red Bull España 2021 y FMS Internacional 2021'
-          frase='No sé de los callejones, no me toco esa vida. Yo no nací en el rap, pero llegue hasta el con rimas. Nadie escoge su casilla de partida, pero si la dirección hacia la que luego camina'/>
+          frase='"No sé de los callejones, no me toco esa vida. Yo no nací en el rap, pero llegue hasta el con rimas. Nadie escoge su casilla de partida, pero si la dirección hacia la que luego camina"'/>
         <Competidor
           nombre='Aczino'
           pais='México'
           imagen='aczino'
           titulo='Red Bull Internacional 2017 y 2021, FMS Internacional 2020'
-          frase='Yo sí soy un engreído, un presumido, un crecido, sí un maldito mal nacido. Pero hay algo que no pueden negar del Aczino ¡que es el mejor maldito freestylero que se ha parido'/>    
+          frase='"Yo sí soy un engreído, un presumido, un crecido, sí un maldito mal nacido. Pero hay algo que no pueden negar del Aczino ¡que es el mejor maldito freestylero que se ha parido"'/>  
+        <Competidor
+          nombre='Mecha'
+          pais='Argentina'
+          imagen='mecha'
+          titulo='Red Bull Argentina 2022'
+          frase='"No querés visitas si es que no te dan visitas. Soy cordobes me gusta el vino y la joda."'/>  
       </div>
     </div>
   );
