@@ -5,7 +5,7 @@ function Competidor(props) {
     return(
         <div className='contenedor-competidor'>
             <img className='imagen-competidor'
-            src={require('../images/imagen-gazir.jpg')}
+            src={require(`../images/imagen-${props.imagen}.jpg`)}
             alt='imagen gazir'/>
             <div className='contenedor-texto-competidor'>
                 <p className='nombre-competidor'>{props.nombre} de {props.pais}</p>
